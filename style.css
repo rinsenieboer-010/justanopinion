@@ -1,3 +1,5 @@
+@import url("apple.css");
+
 /* ─── Reset & Base ─────────────────────────────────────── */
 *, *::before, *::after {
   box-sizing: border-box;
@@ -11,8 +13,8 @@
   --muted:    #888888;
   --rule:     #cccccc;
   --bg:       #faf9f7;
-  --serif:    'Georgia', 'Times New Roman', serif;
-  --sans:     'Helvetica Neue', Arial, sans-serif;
+  --serif:    var(--font-display);
+  --sans:     var(--font-sans);
 }
 
 html {
