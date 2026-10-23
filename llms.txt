@@ -1,0 +1,11 @@
+# Just an Opinion
+
+> Just an Opinion is een Nederlandstalige opiniesite van Rinse Nieboer (Rotterdam) met scherpe, persoonlijke stukken over ondernemen, technologie en de wereld. Niets meer, niets minder.
+
+Elk stuk neemt een duidelijk standpunt in. Geen nieuws, geen samenvattingen: één mening per artikel, onderbouwd.
+
+## Artikelen
+- [Waarom stilte het luidste geluid is geworden](https://justanopinion.org/articles/stilte.html) (24 maart 2026)
+
+## Maker
+- [Rinse Nieboer](https://rjnieboer.com)
